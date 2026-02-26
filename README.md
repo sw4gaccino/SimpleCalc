@@ -11,7 +11,7 @@ Grundrechenarten: +, -, *, /. Division durch 0 wird abgefangen, ungültige Einga
 ```
 ╔══════════════════════════╗
 ║      SimpleCalc v1.0     ║
-║     by lowkyloki         ║
+║     by sw4gaccino        ║
 ╚══════════════════════════╝
 
 Operationen: + | - | * | / | exit
